@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil 😁
+## Bem-vindo(a) ao meu perfil 😁
 
  <div>
    <a href="https://github.com/DrielySantos">
@@ -18,7 +18,7 @@
  
 <div> 
   
-  <a href="https://www.instagram.com/drikasantoz"_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/drikasantoz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/driely-santos-a03770246/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/DrielySantos/DrielySantos/blob/output/github-contribution-grid-snake.svg)
