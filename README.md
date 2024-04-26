@@ -6,6 +6,10 @@
 <h3>Então, estou nessa fase de virar uma craque no front-end. Estudando e absorvendo ao máximo para manjar muito de tecnologia e estou sempre querendo descobrir tudo o que esse universo tech tem pra oferecer. É um tipo de desafio constante, estou sempre querendo explorar e aprender. 🚀
 </h3>
 
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=drielysantos&label=Profile%20views&color=0eb448&style=flat" alt="drielysantos"/>
+</p>
+
 ## 💻 Tecnologias que estou estudando
 
 <div>
