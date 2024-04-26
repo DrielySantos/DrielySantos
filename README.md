@@ -63,13 +63,16 @@
 
 <p>
   <a align="center" href="https://www.linkedin.com/in/drielysantos/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin-2--v1.png" alt="https://www.linkedin.com/in/drielysantos" height="40" width="40"/>
-  </a>
-  <a align="center" href= "mailto:santosdriely98@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" height="40" width="40"/>
-  </a>
-  <a align="center" href="https://wa.me/5521983844493" target=_blank>
-    <img src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1" width="40" height="40"/>
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" max-width="100%"/>
+</a>
+<a align="center" href= "mailto:santosdriely98@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" max-width="100%"/>
+</a>
+<a align="center" href="https://wa.me/5521983844493" target=_blank>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="whatsapp--v1" max-width="100%" height="25"/>
+</a>
+<a align="center" href="https://portfolio-drielysantos.vercel.app/" target="blank">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="1000760626739679254" height="25" max-width="100%" />
+</a>
 </p>
 
