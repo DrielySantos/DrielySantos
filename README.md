@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Oi+eu+sou+a+Driely"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=800&color=6028F7&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Driely+%F0%9F%91%8B" alt="Typing SVG" /></a>
 <h3>Então, estou nessa fase de virar uma craque no front-end. Estudando e absorvendo ao máximo para manjar muito de tecnologia e estou sempre de querer descobrir tudo o que esse universo tech tem pra oferecer, sabe? É um tipo de desafio constante, mas estou sempre querendo explorar e aprender.</h3>
 
 - 🌱 Atualmente estou estudando sobre: **HTML5, CSS3, JavaScript e React. No promagra ONE da Oracle em parceria com a Alura.**
