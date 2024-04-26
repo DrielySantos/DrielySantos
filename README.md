@@ -1,11 +1,11 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=800&color=6028F7&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Driely+%F0%9F%91%8B" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=800&color=3BF71E&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Driely+%F0%9F%91%8B" alt="Typing SVG" /></a>
+
 <h3>Então, estou nessa fase de virar uma craque no front-end. Estudando e absorvendo ao máximo para manjar muito de tecnologia e estou sempre de querer descobrir tudo o que esse universo tech tem pra oferecer, sabe? É um tipo de desafio constante, mas estou sempre querendo explorar e aprender.</h3>
 
 - 🌱 Atualmente estou estudando sobre: **HTML5, CSS3, JavaScript e React. No promagra ONE da Oracle em parceria com a Alura.**
 
-- 👨‍💻 Alguns dos meus projetos estão disponíveis aqui: ![https://portfolio-drielysantos.vercel.app/](https://portfolio-drielysantos.vercel.app /)
-
 - ⚡ Uma curiosidade curiosa sobre mim **Sei cantar o hino da Itália.**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Deaf%20Woman.png" alt="Deaf Woman" width="25" height="25" />
 
 <h3 align="left">Conecte-se comigo:< /h3>
 <p align="left">
