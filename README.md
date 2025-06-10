@@ -21,6 +21,7 @@ Sinta-se à vontade para acompanhar minha jornada por aqui 🚀
 
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrielySantos&layout=compact&langs_count=6&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrielySantos&show_icons=true&theme=dracula)
 
 ## Meus próximos passos
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
