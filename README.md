@@ -1,78 +1,36 @@
-<h1>Olá, mundo! Eu sou a Driely
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">😄
-</h1>
 
+# Olá! Eu sou a Driely Santos 👋
 
-<h3>Então, estou nessa fase de virar uma craque no front-end. Estudando e absorvendo ao máximo para manjar muito de tecnologia e estou sempre querendo descobrir tudo o que esse universo tech tem pra oferecer. É um tipo de desafio constante, estou sempre querendo explorar e aprender. 🚀
-</h3>
+Sou uma estudante independente em transição de carreira, focada em entrar para a faculdade de Análise e Desenvolvimento de Sistemas (ADS) e conseguir meu primeiro emprego como desenvolvedora frontend.
 
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=drielysantos&label=Profile%20views&color=0eb448&style=flat" alt="drielysantos"/>
-</p>
+Atualmente estou estudando **JavaScript** e me aventurando no mundo do **React** — que já se tornou a minha tecnologia favorita (mesmo com seus desafios 😅). Estou sempre buscando aprender mais e melhorar minhas habilidades com projetos, cursos e muita prática.
 
-## 💻 Tecnologias que estou estudando
+Quando não estou codando, provavelmente estou jogando um FIFA ou maratonando algum K-drama 🎮📺
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrielySantos&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-<br>
-<div style="display: inline_block">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-<br>
+Sinta-se à vontade para acompanhar minha jornada por aqui 🚀
 
-### ⚙️ Ferramentas
-<div>
-  <img align="center"width="40" height="35" src="https://img.icons8.com/color/48/000000/visual-studio--v2.png" alt="visual-studio--v2"/>
-  <img align="center" alt="GIT" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-  <img align="center" alt="Figma" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
-</div>
+## Habilidades
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-<br>
+## Ferramentas que utilizo
 
-### 📚 Meus próximos passos
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 
-<a href="https://pt-br.legacy.reactjs.org/" target="_blank">
-  <img width="40" height="40" src="https://img.icons8.com/color/48/react-native.png" alt="react-js"/>
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img width="40" height="40" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
-</a>
-<a href="https://nodejs.org/en" target="_blank">
-  <img width="40" height="40" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
-</a>
-<a href="https://vuejs.org/" target="_blank">
-  <img width="40" height="40" src="https://img.icons8.com/color/48/vue-js.png" alt="vue-js"/>
-</a>
+## GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrielySantos&layout=compact&langs_count=6&theme=dracula)
 
-<br>
+## Meus próximos passos
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 📊 Algumas das minhas estatísticas
-<div>
-   <a href="https://github.com/DrielySantos">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DrielySantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/></a>
-</div>
+## Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drielysantos/)
 
-### ⚡ Duas curiosidade sobre mim 
-- Sei cantar o hino da Itália 🤌🏻
-- Deficiente 67% do ouvido LD 🧏🏻‍♂️
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:santosdriely98@gmail.com)
 
-### 📞 Conecte-se comigo:
-
-<p>
-  <a align="center" href="https://www.linkedin.com/in/drielysantos/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" max-width="100%"/>
-</a>
-<a align="center" href= "mailto:santosdriely98@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" max-width="100%"/>
-</a>
-<a align="center" href="https://wa.me/5521983844493" target=_blank>
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="whatsapp--v1" max-width="100%" height="25"/>
-</a>
-<a align="center" href="https://portfolio-drielysantos.vercel.app/" target="blank">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="1000760626739679254" height="25" max-width="100%" />
-</a>
-</p>
-
+---
+✨ Em constante aprendizado e aberta a novas oportunidades!
